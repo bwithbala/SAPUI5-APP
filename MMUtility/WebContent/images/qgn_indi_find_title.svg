@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" zoomAndPan="magnify" baseProfile="tiny" contentStyleType="text/css" version="1.1" width="24px" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 26" height="26px" x="0px" y="0px">
+    <g>
+        <g>
+            <rect width="24" fill="none" height="26"/>
+        </g>
+    </g>
+    <g>
+        <path d="M 6.567 16.64 L -0.5409999 10.605999 L 8.565001 10.095999 L 11.309 2.6609988 L 11.813 1.2999989 L 15.422 9.989999 L 24.897999 10.913999 L 17.664999 16.463999 L 20.032 24.905998 L 12.205999 20.564999 L 3.9679995 25.874998 L 6.567 16.64 L 6.567 16.64 z M 9.375 11.191 L 2.369 11.582 L 7.86 16.244 L 5.88 23.286 L 12.163 19.237999 L 18.199 22.584 L 16.362 16.028 L 21.914999 11.766 L 14.633999 11.054999 L 11.875999 4.4179993 L 9.375 11.191 L 9.375 11.191 z " fill-opacity="0.2" stroke-opacity="0.2"/>
+        <polygon fill-opacity="0.4" stroke-opacity="0.4" points="11.844,2.858 15.028,10.522 23.406,11.34 17.013,16.247 19.115,23.744 12.185,19.901 4.925,24.582    7.214,16.442 0.914,11.094 8.97,10.644  "/>
+        <linearGradient x1="440.3105" gradientTransform="matrix(0.7211 0.6929 0.6929 -0.7211 170.6916 -809.1253)" y1="-687.0303" x2="484.84" gradientUnits="userSpaceOnUse" y2="-733.3715" xlink:type="simple" xlink:actuate="onLoad" id="SVGID_1_" xlink:show="other">
+            <stop stop-color="#ffe23d" offset="0"/>
+            <stop stop-color="#e48717" offset="1"/>
+        </linearGradient>
+        <polygon fill="url(#SVGID_1_)" points="11.844,2.29 15.028,9.954 23.406,10.771 17.013,15.678 19.115,23.176 12.185,19.333    4.925,24.012 7.214,15.874 0.914,10.525 8.97,10.075  "/>
+        <linearGradient x1="9.7651" y1="4.4316" x2="9.7651" gradientUnits="userSpaceOnUse" y2="21.7817" xlink:type="simple" xlink:actuate="onLoad" id="SVGID_2_" xlink:show="other">
+            <stop stop-color="#fff87b" offset="0"/>
+            <stop stop-color="#ffe817" offset="1"/>
+        </linearGradient>
+        <path fill="url(#SVGID_2_)" d="M 16.616 10.895 L 14.481999 10.687 L 11.886 4.432 L 9.526 10.827 L 2.914 11.196 L 8.102 15.601 L 6.3640003 21.782 C 10.178 16.146 13.865 12.819 16.616 10.895 z "/>
+    </g>
+</svg>
