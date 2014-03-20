@@ -6,12 +6,13 @@ jQuery.sap.declare("util.Connectivity");
 //var serviceUrl = "http://sapsg1.us.tycoelectronics.com:8028/sap/opu/odata/sap/zmm_part_default_srv/";
 //var oModel = new sap.ui.model.odata.ODataModel("http://sapsg1.us.tycoelectronics.com:8028/sap/opu/odata/sap/zmm_part_default_srv/", false, "", "", null,null, null, true);
 
-//var serviceUrl = "../../../../opu/odata/sap/ZMM_PART_DEFAULT_SRV/";
-//var oModel = new sap.ui.model.odata.ODataModel(getServiceURL(), false, "", "", null,null, null, true);
+var serviceUrl = "../../../../opu/odata/sap/ZMM_PART_DEFAULT_SRV/";
+var oModel = new sap.ui.model.odata.ODataModel(getServiceURL(), false, "", "", null,null, null, true);
 //This feature is only relevant for SAP services.
 //When an application supports multiple service versions, the best matching version URL is returned.
+//var oModel = new sap.ui.model.odata.ODataModel("http://sapsg1.us.tycoelectronics.com:8028/sap/opu/odata/sap/zmm_part_default_srv/", false, "", "", null,null, null, true);
 
-/*
+
 var useNegotiation = false;
 
 var minVersion = 1;
@@ -41,9 +42,9 @@ function getServiceURL(){
 //	jQuery.sap.require("util.ServiceNegotiation");
 	return useNegotiation ? getNegotiationService() : serviceUrl;
 }
-*/
 
-var oModel = new sap.ui.model.odata.ODataModel("http://sapsg1.us.tycoelectronics.com:8028/sap/opu/odata/sap/zmm_part_default_srv/", false, "", "", null,null, null, true);
+
+
 
 function createModel(){
    
